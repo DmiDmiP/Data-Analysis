@@ -13,3 +13,6 @@ Find patterns in the available information and understand passenger preferences 
 ### Optimization of marketing expenses for Yandex.Afisha
 Research to optimization of marketing expenses of Yandex.Afisha.<br>
 Business Analytics training.
+### Boost revenue for big online store
+Prioritize hypotheses and analyze the A/B results.<br>
+Making Business Decisions Based on Data training (A/B test)
