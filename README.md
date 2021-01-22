@@ -16,3 +16,6 @@ Business Analytics training.
 ### Boost revenue for big online store
 Prioritize hypotheses and analyze the A/B results.<br>
 Making Business Decisions Based on Data training (A/B test)
+### Los Angeles Restaurant Market Research
+Market research for a restaurant in Los Angeles.<br>
+How to Tell a Story Using Data training.
